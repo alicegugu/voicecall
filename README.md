@@ -1,4 +1,4 @@
 voicecall
 =========
 
-Voice call, SMS though huawei 3G modem using AT commands
+Voice call, SMS though huawei 3G modem(E1750) using AT commands
